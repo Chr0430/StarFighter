@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 814514ddb54e9b443810bef66bf12468, type: 3}
+  m_Name: Enemy_Zigzag
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyConfig
+  prefab: {fileID: 4509969281607092061, guid: 01dae1b28517e62439ac7223f7ed8527, type: 3}
+  speed: 2
+  scoreValue: 1
+  movement: 1
+  tint: {r: 0.2751021, g: 1, b: 0.24842751, a: 1}
